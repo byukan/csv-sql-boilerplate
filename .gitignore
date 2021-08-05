@@ -116,3 +116,11 @@ scratch/.DS_Store
 *.xml
 *.iml
 *.xml
+.DS_Store
+docs/.DS_Store
+docs/source/.DS_Store
+docs/source/_build/.DS_Store
+.DS_Store
+docs/.DS_Store
+docs/source/.DS_Store
+docs/source/_build/.DS_Store
