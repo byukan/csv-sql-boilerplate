@@ -113,3 +113,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 scratch/.DS_Store
+*.xml
+*.iml
+*.xml
