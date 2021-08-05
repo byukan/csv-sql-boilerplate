@@ -6,3 +6,4 @@
  <img src="docs/docs screenshot.png" style="width: 200px;"/>
 
  [html docs](https://github.com/byukan/csv-sql-boilerplate/tree/main/docs/source/_build/html)
+ 
