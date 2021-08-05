@@ -1,3 +1,5 @@
+[![Build Status](https://www.travis-ci.com/byukan/csv-sql-boilerplate.svg?branch=main)](https://www.travis-ci.com/byukan/csv-sql-boilerplate)
+
 # csv-sql-boilerplate
  Loads csv to sqlite to allow SQL syntax queries on data table
 
